@@ -10,7 +10,7 @@ My mod for FNF
 
 ## Html version dev
 
-- [28klotlucas2](https://github.com/28klotlucas2)
+- [28klotlucas2](https://github.com/28klotlucas2) - Programmer
 
 ## Mods
 
